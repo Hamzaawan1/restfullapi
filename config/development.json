@@ -1,0 +1,3 @@
+{
+    "db": "mongodb+srv://Hamzoo:123@cluster0.6trjl.mongodb.net/apidata?retryWrites=true&w=majority"
+}
